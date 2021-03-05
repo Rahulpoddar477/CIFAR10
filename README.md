@@ -1,3 +1,3 @@
-# CIFAR10
-Multiclass classification on CIFAR10
-Dec 2019
+## CIFAR10
+### Multiclass classification on CIFAR10
+### Dec 2019
